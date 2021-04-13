@@ -8,6 +8,9 @@ Aplikasi sederhana pengurai NIK menggunakan React Native
 <img src="https://github.com/snowfluke/unikPenguraiNik/blob/main/phone4-uNik.png" width="22%" alt="Demo 4">
 </p>
 
+# Requirements
+Expo
+
 # Apk File
 Download disini: https://s.id/yo9ow
 
