@@ -1,4 +1,4 @@
-# unikPenguraiNik
+# unikPenguraiNik [Unmaintained]
 Aplikasi sederhana pengurai NIK menggunakan React Native
 
 <p float="left">
